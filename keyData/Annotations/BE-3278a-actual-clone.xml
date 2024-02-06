@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>BE-3278a-actual-clone.jpg</filename>
+	<path>/my-project-name/BE-3278a-actual-clone.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ventricosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>38</ymin>
+			<xmax>299</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

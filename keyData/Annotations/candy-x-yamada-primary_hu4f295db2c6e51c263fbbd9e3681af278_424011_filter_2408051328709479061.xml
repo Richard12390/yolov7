@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>candy-x-yamada-primary_hu4f295db2c6e51c263fbbd9e3681af278_424011_filter_2408051328709479061.jpg</filename>
+	<path>/my-project-name/candy-x-yamada-primary_hu4f295db2c6e51c263fbbd9e3681af278_424011_filter_2408051328709479061.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1439</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>veitchii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>80</ymin>
+			<xmax>1094</xmax>
+			<ymax>1269</ymax>
+		</bndbox>
+	</object>
+</annotation>

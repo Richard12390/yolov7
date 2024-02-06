@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>nmc-093-nepenthes-veitchii-288-p.jpg</filename>
+	<path>/my-project-name/nmc-093-nepenthes-veitchii-288-p.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>556</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>veitchii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>17</ymin>
+			<xmax>311</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

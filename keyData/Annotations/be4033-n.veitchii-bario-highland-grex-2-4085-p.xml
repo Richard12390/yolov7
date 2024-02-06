@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>be4033-n.veitchii-bario-highland-grex-2-4085-p.jpg</filename>
+	<path>/my-project-name/be4033-n.veitchii-bario-highland-grex-2-4085-p.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>veitchii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>28</ymin>
+			<xmax>377</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>

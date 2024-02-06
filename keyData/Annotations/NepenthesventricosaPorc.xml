@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>NepenthesventricosaPorc.jpg</filename>
+	<path>/my-project-name/NepenthesventricosaPorc.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>3334</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ventricosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>59</ymin>
+			<xmax>1911</xmax>
+			<ymax>3129</ymax>
+		</bndbox>
+	</object>
+</annotation>

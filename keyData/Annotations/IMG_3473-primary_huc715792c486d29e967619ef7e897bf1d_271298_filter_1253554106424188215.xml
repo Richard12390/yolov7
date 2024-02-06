@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_3473-primary_huc715792c486d29e967619ef7e897bf1d_271298_filter_1253554106424188215.jpg</filename>
+	<path>/my-project-name/IMG_3473-primary_huc715792c486d29e967619ef7e897bf1d_271298_filter_1253554106424188215.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1064</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ventricosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>9</ymin>
+			<xmax>708</xmax>
+			<ymax>1033</ymax>
+		</bndbox>
+	</object>
+</annotation>

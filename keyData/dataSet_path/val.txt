@@ -1,0 +1,6 @@
+C:/AI_class/DataScience/YOLO/yolov7/keyData/images/1570432351-2616769849_wn.jpg
+C:/AI_class/DataScience/YOLO/yolov7/keyData/images/3i3csodzbyx91.jpg
+C:/AI_class/DataScience/YOLO/yolov7/keyData/images/BE-3278a-actual-clone.jpg
+C:/AI_class/DataScience/YOLO/yolov7/keyData/images/be-3734_hua3a0f82e4317215c9ca4b01744e9b08e_459810_filter_9119780760266487593.jpg
+C:/AI_class/DataScience/YOLO/yolov7/keyData/images/IMG_5537.jpg
+C:/AI_class/DataScience/YOLO/yolov7/keyData/images/NepenthesventricosaPorc.jpg
