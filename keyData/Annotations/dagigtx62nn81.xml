@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>dagigtx62nn81.jpg</filename>
+	<path>/my-project-name/dagigtx62nn81.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3780</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>14</ymin>
+			<xmax>2810</xmax>
+			<ymax>3615</ymax>
+		</bndbox>
+	</object>
+</annotation>

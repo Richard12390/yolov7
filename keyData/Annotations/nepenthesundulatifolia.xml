@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>nepenthesundulatifolia.jpg</filename>
+	<path>/my-project-name/nepenthesundulatifolia.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1258</width>
+		<height>1258</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>357</ymin>
+			<xmax>676</xmax>
+			<ymax>1208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>9</ymin>
+			<xmax>1250</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+</annotation>

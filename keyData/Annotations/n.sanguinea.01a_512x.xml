@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>n.sanguinea.01a_512x.jpg</filename>
+	<path>/my-project-name/n.sanguinea.01a_512x.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>47</ymin>
+			<xmax>295</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Nepenthes_gracilis_x_Nepenthes_rafflesiana.jpg</filename>
+	<path>/my-project-name/Nepenthes_gracilis_x_Nepenthes_rafflesiana.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1599</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>117</ymin>
+			<xmax>958</xmax>
+			<ymax>1426</ymax>
+		</bndbox>
+	</object>
+</annotation>

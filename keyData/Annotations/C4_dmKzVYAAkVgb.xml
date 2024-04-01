@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>C4_dmKzVYAAkVgb.jpg</filename>
+	<path>/my-project-name/C4_dmKzVYAAkVgb.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>164</ymin>
+			<xmax>630</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+</annotation>

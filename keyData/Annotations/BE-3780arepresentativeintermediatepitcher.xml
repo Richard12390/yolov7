@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>BE-3780arepresentativeintermediatepitcher.jpg</filename>
+	<path>/my-project-name/BE-3780arepresentativeintermediatepitcher.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>930</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>0</ymin>
+			<xmax>654</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+</annotation>

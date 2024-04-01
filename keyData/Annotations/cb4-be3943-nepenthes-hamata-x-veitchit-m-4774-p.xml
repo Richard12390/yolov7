@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>cb4-be3943-nepenthes-hamata-x-veitchit-m-4774-p.jpeg</filename>
+	<path>/my-project-name/cb4-be3943-nepenthes-hamata-x-veitchit-m-4774-p.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>966</width>
+		<height>1309</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>262</ymin>
+			<xmax>867</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Nepenthes_diatas.jpg</filename>
+	<path>/my-project-name/Nepenthes_diatas.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1704</width>
+		<height>2272</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>237</ymin>
+			<xmax>1024</xmax>
+			<ymax>2230</ymax>
+		</bndbox>
+	</object>
+</annotation>

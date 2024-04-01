@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>inerm1a.jpg</filename>
+	<path>/my-project-name/inerm1a.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>737</width>
+		<height>1105</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>48</ymin>
+			<xmax>652</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+</annotation>

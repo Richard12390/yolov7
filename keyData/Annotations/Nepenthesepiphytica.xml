@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Nepenthesepiphytica.jpg</filename>
+	<path>/my-project-name/Nepenthesepiphytica.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>5334</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>245</ymin>
+			<xmax>1887</xmax>
+			<ymax>4545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1861</xmin>
+			<ymin>66</ymin>
+			<xmax>3181</xmax>
+			<ymax>5128</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -3,7 +3,7 @@ import os
 from os import getcwd
 
 sets = ['test', 'train', 'val']
-classes = ['ventricosa', 'veitchii', 'truncata']  # 改成自己的类别
+classes = ['pitcher']  # 改成自己的类别
 abs_path = os.getcwd()
 print(abs_path)
 

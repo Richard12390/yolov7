@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>_1030178.jpg</filename>
+	<path>/my-project-name/_1030178.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>2834</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>461</ymin>
+			<xmax>2411</xmax>
+			<ymax>2757</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2183</xmin>
+			<ymin>41</ymin>
+			<xmax>3239</xmax>
+			<ymax>1865</ymax>
+		</bndbox>
+	</object>
+</annotation>

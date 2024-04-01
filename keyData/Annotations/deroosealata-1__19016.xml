@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>deroosealata-1__19016.jpg</filename>
+	<path>/my-project-name/deroosealata-1__19016.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>22</ymin>
+			<xmax>553</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

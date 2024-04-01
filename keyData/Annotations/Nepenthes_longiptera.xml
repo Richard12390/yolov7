@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Nepenthes_longiptera.jpg</filename>
+	<path>/my-project-name/Nepenthes_longiptera.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>256</ymin>
+			<xmax>387</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

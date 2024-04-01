@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Nepenthes_holdenii_lower_pitcher.jpg</filename>
+	<path>/my-project-name/Nepenthes_holdenii_lower_pitcher.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1712</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pitcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>108</ymin>
+			<xmax>1327</xmax>
+			<ymax>2305</ymax>
+		</bndbox>
+	</object>
+</annotation>

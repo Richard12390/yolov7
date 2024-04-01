@@ -4,9 +4,9 @@ val: C:\AI_class\DataScience\YOLO\yolov7\keyData\dataSet_path\val.txt
 test:
 
 # number of classes
-nc: 3
+nc: 1
 
 # class names
-names: ["ventricosa","veitchii","truncata"] 
+names: ["pitcher"] 
 
   # other configurations...
